@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>picture/стена30_30.jpg</file>
+        <file>picture/пол30_30.jpg</file>
+        <file>picture/человек.png</file>
+        <file>picture/воин1.png</file>
+        <file>picture/гном1.png</file>
+        <file>picture/гном-воин1.png</file>
+        <file>picture/щит1.png</file>
+        <file>picture/орк.png</file>
+    </qresource>
+</RCC>
